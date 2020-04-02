@@ -1,4 +1,4 @@
-update=Sat 21 Mar 2020 11:31:50 EET
+update=Thu 02 Apr 2020 17:22:46 EEST
 version=1
 last_client=kicad
 [general]
@@ -14,6 +14,29 @@ LibDir=
 [eeschema/libraries]
 [LibeditFrame]
 version=1
+[SchematicFrame]
+version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+NetFmtName=
+SpiceAjustPassiveValues=0
+SubpartIdSeparator=0
+SubpartFirstId=65
+LabSize=78.74015748031496
+TextOffsetRatio=0.08
+LineThickness=6
+BusThickness=12
+WireThickness=6
+JunctionSize=40
+FieldNameTemplates=(templatefields)
+ERC_TestSimilarLabels=1
+ERC_CheckUniqueGlobalLabels=1
+ERC_CheckBusDriverConflicts=1
+ERC_CheckBusEntryConflicts=1
+ERC_CheckBusToBusConflicts=1
+ERC_CheckBusToNetConflicts=1
 [ModEditFrame]
 version=1
 [pcbnew]
@@ -40,6 +63,7 @@ ProhibitOverlappingCourtyards=1
 CopperEdgeClearance=0.01
 TrackWidth1=0.25
 TrackWidth2=0.381
+TrackWidth3=0.6096
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -249,7 +273,5 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[SchematicFrame]
-version=1
 [sheetnames]
-1=00000000-0000-0000-0000-00005e75d021:
+1=00000000-0000-0000-0000-00005e85f9aa:
